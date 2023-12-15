@@ -2,10 +2,8 @@
 # 📈🧪 Data Analytics Program 🧠📊 : Story of Rasmo Wanyama
 Here is the story of my experience in the Data Analytics Program.
 
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
-
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+👋 Hello! I'm Rasmo Wanyama, and I'm excited to share my professional history before diving into the world of data analytics! 🌟 With a Bachelor's degree in Real Estate, my journey started in the real estate industry, where I honed my skills in navigating property dynamics and contributing to the growth of diverse real estate projects. I accumulated 8 years of experience in Property Valuation, Facilities Management, Project Management, and Research across diverse African markets. My roles heavily involved utilizing property data for valuation, budgeting, financial reporting, and Real Estate market trends analysis. Seeking new challenges, I took a career break in July 2022, strategically pivoting into the data field where my domain knowledge in Real Estate would still be applicable. This led me to join Azubi Africa's Data Analytics program. 🚀
 
 ## How would I describe my experience in the data analytics program ? 
 `Please add text here...`
