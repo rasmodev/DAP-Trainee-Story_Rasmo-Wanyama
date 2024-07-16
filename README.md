@@ -34,10 +34,10 @@ Since joining the Azubi Africa Data Analytics Program, my progress in tech has b
 The Azubi Africa Data Analytics Program laid the foundation for my journey, providing me with the skills, confidence, and opportunities needed to excel in the tech field. My continuous learning and dedication to applying my skills in practical, impactful ways have driven my progress and success.
 
 ## What are my plans for the future ?
-`Please add text here...`
+My future plans involve pursuing a Ph.D. to further deepen my expertise in data science and analytics, with a specific focus on health informatics and real estate analytics. I aim to contribute to significant advancements in healthcare management and patient outcomes through innovative data-driven solutions, as well as optimize real estate market strategies and property management using advanced analytics. Additionally, I plan to continue developing my skills and knowledge by engaging in cutting-edge research and collaborating with industry experts. I am also passionate about mentoring aspiring data scientists and analysts, sharing my knowledge and experiences to help them navigate their careers.
 
 ## What is my dream company or role ?
-`Please add text here...`
+My dream role is to work as a Senior Data Scientist or Analytics Specialist at a leading technology company, healthcare institution, or real estate firm. I am particularly interested in organizations that prioritize innovation and leverage data science and AI to solve complex challenges in both healthcare and real estate. Companies like Google Health, IBM Watson Health, Zillow, and leading academic research centers are on my radar, as they offer the opportunity to work on impactful projects that directly improve patient care, health outcomes, real estate market analysis, and property management strategies. Ultimately, I aspire to be at the forefront of transforming both healthcare and real estate through data science, contributing to groundbreaking research and the development of advanced analytical tools and methodologies.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
